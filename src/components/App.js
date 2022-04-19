@@ -17,7 +17,7 @@ const App = props => {
   return (
     <div>
       <nav className="navbar navbar-dark bg-dark">
-        <span className="navbar-brand" >Redux Module Project</span>
+        <span className="navbar-brand" >TK Redux Module Project</span>
       </nav>
 
       <div className="container">
